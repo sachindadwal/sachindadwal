@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachindadwal
 - 👀 I’m interested in DSA ,CP and React .
-- 🌱 I’m currently learning DSA, Spring Boot, JavaScript and React.
+- 🌱 I’m currently learning DSA,JavaScript and React.
 - 💞️ I’m looking to collaborate on Open Source projects.
 - 📫 How to reach me sdadwal54@hotmail.com
 
